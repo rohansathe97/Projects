@@ -38,7 +38,7 @@ def command():
     except Exception as e:
         #print(e)
 
-        print("Kindly repeat")
+        print("Sorry Sir, I didn't quite get your command.")
         return "None"
     return query
     
